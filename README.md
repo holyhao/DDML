@@ -1,8 +1,8 @@
 # DDML
-- The algorithm used here is a simplified version of the one used in our paper [Diversity regularized metric learning for person re-identification,IEEE International Conference on Image Processing,2016](http://ieeexplore.ieee.org/document/7533164/) .
+- The algorithm used here is a simplified version of the one used in our paper [Diversity regularized metric learning for person re-identification, IEEE International Conference on Image Processing, 2016](http://ieeexplore.ieee.org/document/7533164/) .
 
 ## Framework
-- Matlab
+- Matlab 2015
 
 ## Hardware
 - Intel® Core™ i7-5700 CPU
@@ -11,8 +11,8 @@
 
 ## Data
 - Features of training data [train_fea.mat]().
-- Similar pairs [train_simi_pairs.txt](),each line is a data pair labeled as similar.
-- dissimilar pairs [train_diff_pairs.txt](),each line is a data pair labeled as dissimilar.
+- Similar pairs [train_simi_pairs.txt](), each line is a data pair labeled as similar.
+- dissimilar pairs [train_diff_pairs.txt](), each line is a data pair labeled as dissimilar.
 
 ## Code
 - main script [dml.m]().
